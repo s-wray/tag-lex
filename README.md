@@ -3,10 +3,10 @@ Lexical statistics of part-of-speech tagged Tagalog corpus
 
 ## About
 These lexical statistics of the Tagalog language are used by the Neuroscience of Language Lab in research on word processing in the mind/brain. This collection of resources includes:
-- token ngram lists
+- token ngram lists. Created with NLTK (Loper & Bird 2002)
 - stem frequency lists
 - morph frequency lists
-- phonemic [graphemic] surprisal values: contains multiple values per word. A value representing surprisal/prediction error (see Hale 2001) is calculated for each phoneme in the word (using the formula from Gwilliams & Marantz 2015)
+- phonemic (graphemic) surprisal values: contains multiple values per word. A value representing surprisal/prediction error (see Hale 2001) is calculated for each phoneme in the word (using the formula from Gwilliams & Marantz 2015). Ngrams used as the input for this were created with SLRIM (Stolcke 2002)
 - stem:whole word transition probability: contains one value per multimorphemic word  (see Lewis, Solomyak, and Marantz 2011)
 
 ## Format
