@@ -20,7 +20,7 @@ Stem and morph frequency lists are formatted into comma-separated columns as fol
 
 Surprisal lists are formatted into comma-separated columns as follows (with '...' representing repeated string and surprisal pairs throughout the word):
 
-> word, grapheme string , surprisal , ... grapheme string , surprisal /newline
+> word , grapheme string , surprisal , ... grapheme string , surprisal /newline
 
 Stem:whole word transition probability (TP) is formatted as follows:
 
